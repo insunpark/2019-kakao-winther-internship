@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\cprog\cp2530\이것이 C#이다\느시\Project2\소스.cpp(12,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\cprog\cp2530\이것이 C#이다\느시\Project2\소스.cpp(16,32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\cprog\cp2530\이것이 C#이다\느시\Project2\소스.cpp(33,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\cprog\cp2530\이것이 C#이다\느시\Project2\소스.cpp(46,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project2.vcxproj -> C:\cprog\cp2530\이것이 C#이다\느시\Project2\Debug\Project2.exe
